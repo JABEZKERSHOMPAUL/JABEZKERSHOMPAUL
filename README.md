@@ -1,6 +1,6 @@
 ### Hi there 👋  Jabez Kershom Paul
 
-Full Stack Developer
+                                                            Full Stack Developer
 
 <!--
 **JABEZKERSHOMPAUL/JABEZKERSHOMPAUL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning:-Full Stack Developement
+📫 How to reach me:- jabpaul99@gmil.com
