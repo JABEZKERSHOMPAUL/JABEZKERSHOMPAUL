@@ -3,7 +3,7 @@
 
 - 🌱 I'm currently learning **Full Stack Developement**
 
-<!-- - 👨‍💻 All of my projects are available at [https://guhan-protfolio-mysite.netlify.app/](https://guhan-protfolio-mysite.netlify.app/) -->
+- 👨‍💻 All of my projects are available at [https://jabez-portfolio.netlify.app/](https://jabez-portfolio.netlify.app/)
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACTJS,NODEJS,EXPRESSJS**
 
