@@ -1,41 +1,16 @@
-### Hi there 👋  Jabez Kershom Paul
-
-                                                            Full Stack Developer
-
-<!--
-**JABEZKERSHOMPAUL/JABEZKERSHOMPAUL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning:-Full Stack Developement
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about:- jabpaul99@gmil.com
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🌱 I’m currently learning:-Full Stack Developement ...
-- 📫 How to reach me:- jabpaul99@gmil.com ...
-Languages and Tools:
-aws bootstrap css3 express git heroku html5 javascript mongodb mysql nodejs photoshop postman python react
-
-
-
-<h1 align="center">Hi 👋, I'm Guhan N S</h1>
+<h1 align="center">Hi 👋, I'm Jabez Kershom Paul T</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 - 🌱 I'm currently learning **Full Stack Developement**
 
-- 👨‍💻 All of my projects are available at [https://guhan-protfolio-mysite.netlify.app/](https://guhan-protfolio-mysite.netlify.app/)
+<!-- - 👨‍💻 All of my projects are available at [https://guhan-protfolio-mysite.netlify.app/](https://guhan-protfolio-mysite.netlify.app/) -->
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACT,NODEJS**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACTJS,NODEJS,EXPRESSJS**
 
-- 📫 How to reach me **neelakandanguhan@gmail.com**
+- 📫 How to reach me **jabpaul99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"><a href="https://www.linkedin.com/in/jabez-kershom-paul-370603223/" target="_blank">LINKEDIN</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
